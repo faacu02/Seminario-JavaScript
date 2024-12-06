@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tablero de juego</title>
+  <link rel="stylesheet" href="juego.css">
+</head>
+<body>
+  <div>
+    <h2 id="idBoard"></h2>
+    <h4 id="waitingPlayers"></h4>
+  </div>
+  <div>
+    <div id="preguntas" class="body-question">
+      <div class="container-question">
+        <h2 id="question"></h2>
+      </div>
+      <div class="container-options">
+        <button class="container-options" id="option1" onclick="selectAnswer(this)" value="1"></button>
+        <button class="container-options" id="option2" onclick="selectAnswer(this)" value="2"></button>
+        <button class="container-options" id="option3" onclick="selectAnswer(this)" value="3"></button>
+      </div>
+      <button id="submit-answer" onclick="sentAnswer()" >Enviar respuesta</button>
+      <h3 id="guide"></h3>
+      <h3 id="showResult"></h3>
+      <button id="dice-button" onclick="tirarDado()">Dado</button>
+    </div>
+    <div>
+    </div>
+    <button id="question-button" onclick="makeQuestion()">Hacer Pregunta</button>
+    <div>
+      <div>
+      </div>
+      <h3 id="turno-text"></h3>
+    </div>
+  </div>
+  <div id="array-container"></div>
+  <script src="juego.js"></script>
+</body>
+</html>

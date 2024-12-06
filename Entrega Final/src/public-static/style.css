@@ -1,0 +1,81 @@
+html,
+body {
+  height: 100%;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-container{
+  margin-bottom: 20px;
+  margin: 10px;
+}
+
+/*Animacion botones*/
+.submit-btn,
+#joinId,
+#start-button {
+  transition: background-color 0.5s ease;
+}
+.submit-btn:hover,
+#joinId:hover,
+#start-button:hover {
+  background-color: hsl(35, 100%, 50%);
+  color: hsl(000, 0%, 0%);
+  cursor: pointer;
+}
+/*botones deshabilitados*/
+.submit-btn:disabled:hover,
+#joinId:disabled:hover,
+#start-button:disabled:hover {
+  cursor: not-allowed;
+}
+
+button{
+  margin: 20px, 0px;
+}
+
+/*Botones colores*/
+.color-button {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+    margin: 10px 5px;
+    cursor: pointer;
+  }
+  
+  .red {
+    background-color: red;
+  }
+  
+  .blue {
+    background-color: blue;
+  }
+
+  .green {
+    background-color: green;
+  }
+  
+  .yellow {
+    background-color: yellow;
+  }
+  
+  .color-button.active {
+    box-shadow: 0 0 0 4px #000000;
+  }
+  
+  #form-container,#preGame {
+    margin: 20px;
+    background-color: white;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  body {
+    background-image: url("https://eskipaper.com/images/toy-story-wallpaper-17.jpg");
+    background-size: cover;
+    background-position: center;
+  }

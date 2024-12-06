@@ -1,0 +1,380 @@
+[ 
+    {
+        "pregunta": "¿Qué es la accesibilidad web y por qué es importante?",
+        "respuestas": [
+            {"id": 1, "str": "La accesibilidad web es la capacidad de acceder a Internet desde cualquier dispositivo."},
+            {"id": 2, "str": "La accesibilidad web se refiere a la inclusión de contenido multimedia en los sitios web."},
+            {"id": 3, "str": "La accesibilidad web es el diseño y desarrollo de sitios web para que sean utilizables por personas con discapacidad."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuáles son algunos ejemplos de barreras comunes que las personas con discapacidad pueden enfrentar al navegar por la web?",
+        "respuestas": [
+            {"id": 1, "str": "Incompatibilidad con navegadores web específicos."},
+            {"id": 2, "str": "Falta de interacción en tiempo real en los sitios web."},
+            {"id": 3, "str": "Falta de descripciones de texto alternativo en las imágenes."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuáles son las pautas de accesibilidad más utilizadas para el diseño de sitios web?",
+        "respuestas": [
+            {"id": 1, "str": "Pautas de Accesibilidad para el Contenido Web (WCAG)."},
+            {"id": 2, "str": "Pautas de Accesibilidad al Software y Hardware (ASH)."},
+            {"id": 3, "str": "Pautas de Accesibilidad para Dispositivos Móviles (MAG)."}
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué es el contraste de color y por qué es relevante para la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "El contraste de color se refiere a la elección de colores atractivos para un sitio web."},
+            {"id": 2, "str": "El contraste de color es la diferencia entre los colores de primer plano y fondo en un sitio web."},
+            {"id": 3, "str": "El contraste de color es la capacidad de cambiar los colores de un sitio web según las preferencias del usuario."}
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cómo se puede mejorar la accesibilidad web para personas con discapacidad visual?",
+        "respuestas": [
+            {"id": 1, "str": "Proporcionando descripciones de texto alternativo en las imágenes."},
+            {"id": 2, "str": "Aumentando el número de imágenes en un sitio web."},
+            {"id": 3, "str": "Utilizando efectos visuales llamativos para captar la atención del usuario."}
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué son las etiquetas alt en las imágenes y por qué son importantes para la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "Las etiquetas alt son etiquetas utilizadas para resaltar palabras clave en un texto."},
+            {"id": 2, "str": "Las etiquetas alt son atributos utilizados en el código HTML para proporcionar descripciones de texto alternativo para las imágenes."},
+            {"id": 3, "str": "Las etiquetas alt son etiquetas utilizadas para formatear el texto en un sitio web."}
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué es la lectoescritura y cuáles son algunas de las dificultades que pueden enfrentar las personas con dificultades de lectoescritura?",
+        "respuestas": [
+            {"id": 1, "str": "La lectoescritura es la capacidad de leer y escribir. Las personas con dificultades de lectoescritura pueden enfrentar dificultades para leer y comprender textos escritos, así como para expresarse por escrito."},
+            {"id": 2, "str": "La lectoescritura se refiere a la capacidad de hablar y escuchar. Las personas con dificultades de lectoescritura pueden tener dificultades para comunicarse oralmente."},
+            {"id": 3, "str": "La lectoescritura es la capacidad de utilizar el lenguaje de programación. Las personas con dificultades de lectoescritura pueden tener dificultades para codificar y programar."}
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuáles son algunas estrategias o tecnologías de apoyo utilizadas para ayudar a las personas con dificultades de lectoescritura?",
+        "respuestas": [
+            {"id": 1, "str": "Lectores de pantalla."},
+            {"id": 2, "str": "Correctores ortográficos y sintácticos."},
+            {"id": 3, "str": "Todas las opciones son correctas."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué es la tecnología de reconocimiento de voz y cómo se utiliza en la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "La tecnología de reconocimiento de voz permite a las personas controlar una computadora o dispositivo mediante comandos de voz."},
+            {"id": 2, "str": "La tecnología de reconocimiento de voz se utiliza para mejorar la calidad del sonido en los sitios web."},
+            {"id": 3, "str": "La tecnología de reconocimiento de voz es una forma de cifrado utilizado para proteger la privacidad en línea."}
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuáles son algunas formas en que se puede mejorar la navegación para personas con discapacidad motora?",
+        "respuestas": [
+            {"id": 1, "str": "Proporcionar opciones de navegación por teclado."},
+            {"id": 2, "str": "Utilizar animaciones y efectos visuales llamativos."},
+            {"id": 3, "str": "Reducir el tamaño de los botones y enlaces para ahorrar espacio en pantalla."}
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Qué es el texto alternativo y por qué es importante para la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "El texto alternativo es una forma de lenguaje de programación utilizado en el diseño web."},
+            {"id": 2, "str": "El texto alternativo se refiere a proporcionar diferentes versiones de un texto en un sitio web."},
+            {"id": 3, "str": "El texto alternativo es una descripción textual que se proporciona a las imágenes en un sitio web para que las personas con discapacidad visual puedan entender su contenido."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuáles son algunas pautas para crear documentos electrónicos accesibles?",
+        "respuestas": [
+            {"id": 1, "str": "Utilizar tamaños de fuente grandes."},
+            {"id": 2, "str": "Utilizar encabezados y etiquetas adecuadas para una estructura clara del contenido."},
+            {"id": 3, "str": "No utilizar imágenes en los documentos electrónicos."}
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cómo se pueden hacer los formularios en línea más accesibles?",
+        "respuestas": [
+            {"id": 1, "str": "Proporcionando instrucciones claras y concisas."},
+            {"id": 2, "str": "Utilizando etiquetas descriptivas para los campos de entrada."},
+            {"id": 3, "str": "Todas las opciones son correctas."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué es la navegación por teclado y por qué es relevante para la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "La navegación por teclado se refiere a utilizar un ratón para desplazarse por un sitio web."},
+            {"id": 2, "str": "La navegación por teclado es la capacidad de navegar y utilizar un sitio web mediante el teclado."},
+            {"id": 3, "str": "La navegación por teclado es la capacidad de utilizar comandos de voz para navegar por un sitio web."}
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Cuáles son algunos ejemplos de tecnologías de asistencia utilizadas por personas con discapacidad para acceder a la web?",
+        "respuestas": [
+            {"id": 1, "str": "Lectores de pantalla."},
+            {"id": 2, "str": "Teclados alternativos."},
+            {"id": 3, "str": "Todas las opciones son correctas."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué es el diseño responsivo y cómo contribuye a la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "El diseño responsivo es un enfoque de diseño que se adapta a diferentes dispositivos y tamaños de pantalla. Contribuye a la accesibilidad web al permitir que los sitios web sean accesibles en diferentes dispositivos, incluyendo dispositivos móviles."},
+            {"id": 2, "str": "El diseño responsivo se refiere a la elección de colores y tipografías adecuados para un sitio web."},
+            {"id": 3, "str": "El diseño responsivo es un enfoque de diseño que se centra en la usabilidad y la experiencia del usuario."}
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuáles son los estándares de accesibilidad establecidos por la W3C?",
+        "respuestas": [
+            {"id": 1, "str": "WCAG."},
+            {"id": 2, "str": "ARIA."},
+            {"id": 3, "str": "Ambas opciones son correctas."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué es la estructura semántica y cómo afecta a la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "La estructura semántica se refiere a la forma en que se organizan los elementos en un sitio web. Afecta a la accesibilidad web al proporcionar una estructura clara y comprensible para las tecnologías de asistencia."},
+            {"id": 2, "str": "La estructura semántica es la forma en que se utilizan las palabras clave en un sitio web para mejorar su visibilidad en los motores de búsqueda."},
+            {"id": 3, "str": "La estructura semántica es un enfoque de diseño que se centra en la usabilidad y la experiencia del usuario."}
+        ],
+        "correcta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el papel de los estándares de codificación en la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "Los estándares de codificación aseguran que los sitios web se vean atractivos visualmente."},
+            {"id": 2, "str": "Los estándares de codificación garantizan que los sitios web sean compatibles con diferentes navegadores y dispositivos."},
+            {"id": 3, "str": "Los estándares de codificación establecen pautas y mejores prácticas para garantizar la accesibilidad y usabilidad de los sitios web."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cómo se puede evaluar la accesibilidad de un sitio web?",
+        "respuestas": [
+            {"id": 1, "str": "Mediante pruebas de usabilidad con usuarios."},
+            {"id": 2, "str": "Utilizando herramientas de evaluación de accesibilidad, como validadores automáticos."},
+            {"id": 3, "str": "Contratando a un experto en accesibilidad para una revisión exhaustiva del sitio web."}
+        ],
+        "correcta": 2
+    },
+    {
+        "pregunta": "¿Qué es el modo de alto contraste y cómo puede beneficiar a las personas con discapacidad?",
+        "respuestas": [
+            {"id": 1, "str": "El modo de alto contraste es un tipo de filtro utilizado para mostrar imágenes en sitios web."},
+            {"id": 2, "str": "El modo de alto contraste es una función que ajusta automáticamente el volumen de los sonidos en un sitio web."},
+            {"id": 3, "str": "El modo de alto contraste es una opción que permite cambiar los colores de fondo y texto en un sitio web, lo que puede facilitar la lectura para personas con discapacidad visual o dificultades de lectura."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de los atributos 'aria-label' y 'aria-labelledby' en la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "Los atributos 'aria-label' y 'aria-labelledby' son utilizados para dar estilo a los elementos de un sitio web."},
+            {"id": 2, "str": "Los atributos 'aria-label' y 'aria-labelledby' son utilizados para agregar efectos de animación a las imágenes en un sitio web."},
+            {"id": 3, "str": "Los atributos 'aria-label' y 'aria-labelledby' son utilizados para proporcionar etiquetas descriptivas o referencias a elementos que no tienen etiquetas de texto visibles, lo que mejora la comprensión para las tecnologías de asistencia."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Por qué es importante permitir el control del tiempo de pausa en contenido multimedia para mejorar la accesibilidad?",
+        "respuestas": [
+            {"id": 1, "str": "Permitir el control del tiempo de pausa en contenido multimedia mejora la calidad del contenido."},
+            {"id": 2, "str": "Permitir el control del tiempo de pausa en contenido multimedia es un requisito legal para sitios web comerciales."},
+            {"id": 3, "str": "Permitir el control del tiempo de pausa en contenido multimedia beneficia a las personas con discapacidad, ya que les permite ajustar el tiempo de reproducción según sus necesidades, como en el caso de personas con dificultades para procesar información rápidamente o que requieran más tiempo para entender el contenido."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué es el lenguaje de señas digital y cómo puede mejorar la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "El lenguaje de señas digital es un formato de texto utilizado en sitios web para presentar contenido de manera concisa."},
+            {"id": 2, "str": "El lenguaje de señas digital es un sistema de traducción que convierte texto escrito en lenguaje de señas."},
+            {"id": 3, "str": "El lenguaje de señas digital es una representación visual de lenguaje de señas que se puede incorporar en contenido multimedia en línea, lo que beneficia a personas sordas o con discapacidad auditiva al proporcionarles información visualmente accesible y comprensible."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué es el contraste de texto y por qué es relevante para la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "El contraste de texto es un efecto visual utilizado para resaltar ciertos elementos de un sitio web."},
+            {"id": 2, "str": "El contraste de texto se refiere a la elección de diferentes tipos de fuentes en un sitio web."},
+            {"id": 3, "str": "El contraste de texto es la diferencia de luminosidad entre el texto y su fondo en un sitio web. Es relevante para la accesibilidad web porque garantiza que el texto sea legible para personas con discapacidad visual o con dificultades de visión."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué es la navegación con búsquedas y cómo puede beneficiar a las personas con discapacidad?",
+        "respuestas": [
+            {"id": 1, "str": "La navegación con búsquedas es un tipo de búsqueda avanzada que solo está disponible para personas con discapacidad."},
+            {"id": 2, "str": "La navegación con búsquedas es una opción que permite buscar contenido específico en un sitio web."},
+            {"id": 3, "str": "La navegación con búsquedas es una forma de navegación alternativa que permite a las personas con discapacidad acceder a contenido específico de manera rápida y eficiente al ingresar términos de búsqueda relevantes."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué es el modo de lectura y cómo puede mejorar la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "El modo de lectura es un formato especial utilizado para presentar contenido solo en braille."},
+            {"id": 2, "str": "El modo de lectura es una función que desactiva todos los medios de audio en un sitio web."},
+            {"id": 3, "str": "El modo de lectura es una opción que simplifica el diseño y contenido de un sitio web, lo que beneficia a personas con distracciones visuales o dificultades de concentración al proporcionar una experiencia de lectura más clara y enfocada."}
+        ],
+        "correcta": 3
+    },
+    {
+        "pregunta": "¿Qué es el subtítulo oculto y cómo puede afectar la accesibilidad web?",
+        "respuestas": [
+            {"id": 1, "str": "El subtítulo oculto es una función que permite a los usuarios desactivar subtítulos en contenido multimedia."},
+            {"id": 2, "str": "El subtítulo oculto se refiere a subtítulos que solo son visibles para personas con discapacidad auditiva."},
+            {"id": 3, "str": "El subtítulo oculto se refiere a la técnica de ocultar los subtítulos de manera incorrecta o inaccesible para personas con discapacidad, lo que puede afectar negativamente la experiencia de usuario y la comprensión del contenido para personas con discapacidad auditiva."}
+        ],
+        "correcta": 3
+    },
+    {
+    "pregunta": "¿Qué es la adaptación de contenido y por qué es importante para la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "La adaptación de contenido es un enfoque de diseño que se adapta al estilo de vida de los usuarios."},
+        {"id": 2, "str": "La adaptación de contenido es una técnica que ajusta el contenido en función de la ubicación geográfica de los usuarios."},
+        {"id": 3, "str": "La adaptación de contenido es una estrategia que permite presentar diferentes versiones de contenido en un sitio web según las necesidades y preferencias de los usuarios, lo que es importante para garantizar que el contenido sea accesible y relevante para personas con diferentes habilidades, idiomas o dispositivos."}
+    ],
+    "correcta": 3
+},
+{
+    "pregunta": "¿Qué es la traducción de texto y cómo puede beneficiar a usuarios con discapacidad en la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "La traducción de texto es una función que permite traducir automáticamente el contenido de un sitio web a diferentes idiomas."},
+        {"id": 2, "str": "La traducción de texto se refiere a la adaptación del contenido a diferentes formatos de texto, como PDF o DOC."},
+        {"id": 3, "str": "La traducción de texto es una opción que permite a personas con discapacidad visual o con dificultades de lectura acceder al contenido en su idioma nativo o preferido, lo que facilita su comprensión y experiencia en el sitio web."}
+    ],
+    "correcta": 3
+},
+{
+    "pregunta": "¿Qué es el texto ajustable y cómo puede mejorar la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "El texto ajustable es una función que permite ajustar la alineación del texto en un sitio web."},
+        {"id": 2, "str": "El texto ajustable es una opción que permite a los usuarios cambiar el tamaño del texto en un sitio web."},
+        {"id": 3, "str": "El texto ajustable es una técnica que permite adaptar el tamaño y estilo del texto para facilitar la lectura y comprensión del contenido, lo que beneficia a personas con discapacidad visual o con dificultades de lectura."}
+    ],
+    "correcta": 2
+},
+{
+    "pregunta": "¿Qué es el autocompletado y cómo puede beneficiar a la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "El autocompletado es una opción que completa automáticamente formularios en un sitio web."},
+        {"id": 2, "str": "El autocompletado es una función que predice los resultados de búsqueda en tiempo real."},
+        {"id": 3, "str": "El autocompletado es una opción que permite ahorrar tiempo y esfuerzo al rellenar formularios y campos de entrada, lo que beneficia a personas con discapacidad motora o dificultades para escribir o utilizar dispositivos de entrada."}
+    ],
+    "correcta": 3
+},
+{
+    "pregunta": "¿Qué es la validación de formularios y por qué es relevante para la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "La validación de formularios es un proceso que verifica la identidad de los usuarios antes de enviar la información."},
+        {"id": 2, "str": "La validación de formularios es una función que evita que los usuarios ingresen información incorrecta en los campos de un formulario."},
+        {"id": 3, "str": "La validación de formularios es importante para garantizar que los usuarios, incluyendo aquellos con discapacidades, puedan enviar información de manera correcta y completa, y recibir retroalimentación en caso de errores, lo que mejora la experiencia de usuario en el sitio web."}
+    ],
+    "correcta": 3
+},
+{
+    "pregunta": "¿Qué es el modo de alto contraste inverso y cómo puede beneficiar a las personas con discapacidad?",
+    "respuestas": [
+        {"id": 1, "str": "El modo de alto contraste inverso es un efecto visual utilizado para resaltar ciertos elementos en un sitio web."},
+        {"id": 2, "str": "El modo de alto contraste inverso es una función que invierte los colores de fondo y texto en un sitio web."},
+        {"id": 3, "str": "El modo de alto contraste inverso es una opción que permite a personas con discapacidad visual o dificultades de lectura ajustar los colores de fondo y texto para una mejor legibilidad y comodidad visual en el sitio web."}
+    ],
+    "correcta": 2
+},
+{
+    "pregunta": "¿Qué es el teclado virtual y cómo puede beneficiar a la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "El teclado virtual es una herramienta que permite crear teclados personalizados para sitios web."},
+        {"id": 2, "str": "El teclado virtual es una opción que permite a los usuarios utilizar un teclado en pantalla para ingresar texto."},
+        {"id": 3, "str": "El teclado virtual es una alternativa para personas con discapacidad motora o que utilizan dispositivos táctiles, lo que les permite ingresar texto y utilizar el sitio web sin depender de un teclado físico."}
+    ],
+    "correcta": 3
+},
+{
+    "pregunta": "¿Qué es la retroalimentación táctil y cómo puede mejorar la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "La retroalimentación táctil es una función que proporciona comentarios visuales en forma de imágenes."},
+        {"id": 2, "str": "La retroalimentación táctil es una opción que mejora la velocidad de carga de un sitio web."},
+        {"id": 3, "str": "La retroalimentación táctil es una técnica que proporciona información táctil o vibraciones en dispositivos móviles para guiar a las personas con discapacidad visual o dificultades de navegación, lo que mejora su interacción con el sitio web."}
+    ],
+    "correcta": 3
+},
+{
+    "pregunta": "¿Qué es el ajuste del tiempo de espera y cómo puede beneficiar a la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "El ajuste del tiempo de espera es una función que reduce el tiempo de carga de un sitio web."},
+        {"id": 2, "str": "El ajuste del tiempo de espera es una opción que permite a los usuarios personalizar el tiempo de visualización de contenido en un sitio web."},
+        {"id": 3, "str": "El ajuste del tiempo de espera es una técnica que permite a personas con discapacidad visual o dificultades de lectura ajustar el tiempo de visualización de contenido en tiempo real, lo que les proporciona el tiempo adecuado para leer y comprender la información."}
+    ],
+    "correcta": 3
+},
+{
+    "pregunta": "¿Qué es la navegación con atajos de teclado y cómo puede mejorar la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "La navegación con atajos de teclado es un enfoque de diseño que utiliza combinaciones de teclas para acceder a contenido especializado en un sitio web."},
+        {"id": 2, "str": "La navegación con atajos de teclado es una técnica que permite navegar entre diferentes páginas de un sitio web utilizando teclas especiales."},
+        {"id": 3, "str": "La navegación con atajos de teclado es una alternativa para personas con discapacidad motora o que prefieren utilizar el teclado en lugar del ratón, lo que les permite acceder rápidamente a áreas clave del sitio web y mejorar su experiencia de navegación."}
+    ],
+    "correcta": 3
+},
+{
+    "pregunta": "¿Qué es la transcripción de audio y por qué es relevante para la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "La transcripción de audio es una función que convierte el texto en formato de audio."},
+        {"id": 2, "str": "La transcripción de audio es una técnica que traduce contenido de un idioma a otro."},
+        {"id": 3, "str": "La transcripción de audio es una opción que proporciona un texto escrito del contenido de audio en un sitio web, lo que beneficia a personas con discapacidad auditiva o que prefieren leer en lugar de escuchar."}
+    ],
+    "correcta": 3
+},
+{
+    "pregunta": "¿Qué es el tiempo de pausa configurable y cómo puede beneficiar a la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "El tiempo de pausa configurable es una función que permite a los usuarios pausar la reproducción de videos en un sitio web."},
+        {"id": 2, "str": "El tiempo de pausa configurable es una opción que permite a los usuarios ajustar el tiempo de pausa entre transiciones de diapositivas en presentaciones multimedia."},
+        {"id": 3, "str": "El tiempo de pausa configurable es una técnica que permite a personas con discapacidad visual o dificultades de procesamiento de información ajustar el tiempo de pausa en contenido multimedia, lo que mejora su capacidad para comprender y asimilar el contenido presentado."}
+    ],
+    "correcta": 3
+},
+{
+    "pregunta": "¿Qué es el control de velocidad de reproducción y cómo puede beneficiar a la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "El control de velocidad de reproducción es una opción que permite a los usuarios ajustar la calidad del audio en contenido multimedia."},
+        {"id": 2, "str": "El control de velocidad de reproducción es una función que permite a los usuarios acelerar o ralentizar la velocidad de reproducción de videos o audios."},
+        {"id": 3, "str": "El control de velocidad de reproducción es una técnica que permite a personas con discapacidad visual o dificultades de procesamiento de información ajustar la velocidad de reproducción para adaptarse a su ritmo de comprensión, lo que mejora su experiencia al consumir contenido multimedia."}
+    ],
+    "correcta": 2
+},
+{
+    "pregunta": "¿Qué es la revisión de código y cómo puede mejorar la accesibilidad web?",
+    "respuestas": [
+        {"id": 1, "str": "La revisión de código es un proceso que verifica la autenticidad de un sitio web."},
+        {"id": 2, "str": "La revisión de código es una técnica que utiliza lenguajes de programación avanzados para mejorar la interacción en sitios web."},
+        {"id": 3, "str": "La revisión de código es una práctica que garantiza la implementación adecuada de las pautas de accesibilidad y mejores prácticas, lo que mejora la calidad y accesibilidad del sitio web para todos los usuarios."}
+    ],
+    "correcta": 3
+}
+]

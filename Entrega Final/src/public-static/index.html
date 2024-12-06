@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="form-container">
+      <h2>Registrate primero para jugar!</h2>
+      <div class="name">
+        <label for="name">Ingrese su nombre:</label>
+        <input type="text" id="name" name="name" required maxlength="9">
+      </div>
+
+      <label>Elija un color: </label>
+      <div class="color-buttons">
+        <button class="color-button red" onclick="selectColor(this)"
+          value="red"></button>
+        <button class="color-button blue" onclick="selectColor(this)"
+          value="blue"></button>
+        <button class="color-button green" onclick="selectColor(this)"
+          value="green"></button>
+        <button class="color-button yellow" onclick="selectColor(this)"
+          value="yellow"></button>
+      </div>
+      <button id="submitInfo" onclick="unlock()" >Enviar</button>
+    </div>
+
+    <div id="preGame">
+      <h2>Unete a una partida existente</h2>
+      <input method="PATCH" id="idBoard" placeholder="Ingrese ID de tablero">
+      <button id="joinId" onclick="joinGame()" disabled >Unirse</button>
+      <h2>Crea una nueva partida</h2>
+      <button id="start-button" onclick="createGame()" disabled >Crear</button>
+    </div>
+
+    <script src="./codeform.js"></script>
+  </body>
+</html>
